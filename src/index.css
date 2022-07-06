@@ -1,0 +1,13 @@
+body {
+	width: 100%;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	font-family: "Rubik", sans-serif, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
+	overflow-x: hidden;
+}
+
+code {
+	font-family: "Rubik", sans-serif, Menlo, Monaco, Consolas, "Courier New",
+		monospace;
+}
